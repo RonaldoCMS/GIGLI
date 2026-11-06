@@ -14,10 +14,10 @@ Questo repository serve **solo per scaricare il gioco**: non contiene il codice 
 
 ## Come scaricarlo
 
-1. Apri la sezione **Releases**, a destra in questa pagina.
-2. Scarica il file `.zip` dell'ultima versione.
+1. Apri la sezione **[Releases](https://github.com/RonaldoCMS/GIGLI/releases/latest)** (a destra in questa pagina).
+2. Scarica `GIGLI-0.1.0-Windows.zip` (circa 1,4 GB). Accanto c'è il file `.sha256` per controllare che il download sia integro.
 
-**La prima versione è in preparazione.** Finché non compare nella sezione Releases non c'è nulla da scaricare: ricontrolla più avanti.
+**Versione attuale: 0.1.0, la prima versione giocabile.** È in sviluppo: possono esserci errori, segnalali con una Issue.
 
 ## Requisiti
 
