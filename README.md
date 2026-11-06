@@ -15,9 +15,9 @@ Questo repository serve **solo per scaricare il gioco**: non contiene il codice 
 ## Come scaricarlo
 
 1. Apri la sezione **[Releases](https://github.com/RonaldoCMS/GIGLI/releases/latest)** (a destra in questa pagina).
-2. Scarica `GIGLI-0.1.0-Windows.zip` (circa 1,4 GB). Accanto c'è il file `.sha256` per controllare che il download sia integro.
+2. Scarica `GIGLI-0.1.1-Windows.zip` (circa 1,4 GB). Accanto c'è il file `.sha256` per controllare che il download sia integro.
 
-**Versione attuale: 0.1.0, la prima versione giocabile.** È in sviluppo: possono esserci errori, segnalali con una Issue.
+**Versione attuale: 0.1.1.** È in sviluppo: possono esserci errori, segnalali con una Issue. Le versioni precedenti restano nella sezione Releases.
 
 ## Requisiti
 
@@ -99,6 +99,13 @@ Nel gioco puoi tenere premuto **H** per vedere la legenda dei comandi, e nel men
 ## Avvertenza
 
 GIGLI è un gioco **amatoriale, fatto per passione**. **Non è un prodotto ufficiale** della Fondazione Festa dei Gigli né del Comune di Nola, e non ha alcun legame con loro. I gigli e le vie sono riprodotti per omaggio a una festa che dal 2013 è patrimonio culturale immateriale dell'UNESCO. Grazie alle paranze, ai cullatori, ai capoparanza e a tutta Nola.
+
+## L'autore
+
+GIGLI è un gioco di **Fabio Danubbio**.
+
+- Instagram: [@fabio.danubbio](https://www.instagram.com/fabio.danubbio/)
+- LinkedIn: [Fabio Danubbio](https://www.linkedin.com/in/fabio-danubbio/)
 
 ## Segnalare un problema
 
