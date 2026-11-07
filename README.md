@@ -94,7 +94,7 @@ Nel gioco puoi tenere premuto **H** per vedere la legenda dei comandi, e nel men
 - Quote del terreno: TINITALY 1.1, INGV (Tarquini S., Isola I., Favalli M., Battistini A., Dotta G., 2023), licenza CC BY 4.0 - [doi.org/10.13127/tinitaly/1.1](https://doi.org/10.13127/tinitaly/1.1).
 - Edifici storici: Catalogo generale dei Beni Culturali (ICCD), dati aperti ArCo del Ministero della Cultura.
 
-**Musica.** I nove brani delle bande sono **originali**, composti per questo gioco (nessuna canzone esistente è citata). Sono suonati con FluidSynth (LGPL-2.1) e con il soundfont GeneralUser GS di S. Christian Collins. La musica del menu è «Salve o Nola» (inno a San Paolino), Canzoniere Nolano, Panettiere 2018, voci di Tino Simonetti e Paolino Di Somma: usata con permesso.
+**Musica.** I nove brani delle bande sono **originali**, composti per questo gioco (nessuna canzone esistente è citata). Sono suonati con FluidSynth (LGPL-2.1) e con il soundfont GeneralUser GS di S. Christian Collins. La musica del menu è «Salve o Nola» (inno a San Paolino), Canzoniere Nolano, Panettiere 2018, voci di Tino Simonetti e Paolino Di Somma.
 
 **Rumori.** Folla, legno, colpi di spalla, passi e suoni dei menu vengono da librerie con licenza libera, tutte CC0 o pubblico dominio, rielaborate per il gioco:
 - BigSoundBank (CC0): charlesdu76, DenisChardonnet, Joseph SARDIN, Joseph SARDIN & Axeline T., Pierre SIBANARCO, Vitoria M.
