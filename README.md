@@ -15,9 +15,18 @@ Questo repository serve **solo per scaricare il gioco**: non contiene il codice 
 ## Come scaricarlo
 
 1. Apri la sezione **[Releases](https://github.com/RonaldoCMS/GIGLI/releases/latest)** (a destra in questa pagina).
-2. Scarica `GIGLI-0.1.1-Windows.zip` (circa 1,4 GB). Accanto c'è il file `.sha256` per controllare che il download sia integro.
+2. Scarica `GIGLI-0.2.0-Windows.zip` (circa 1,5 GB). Accanto c'è il file `.sha256` per controllare che il download sia integro.
 
-**Versione attuale: 0.1.1.** È in sviluppo: possono esserci errori, segnalali con una Issue. Le versioni precedenti restano nella sezione Releases.
+**Versione attuale: 0.2.0.** È in sviluppo: possono esserci errori, segnalali con una Issue. Le versioni precedenti restano nella sezione Releases.
+
+## Novità della 0.2.0
+
+- **Menu nuovo:** i nove gigli schierati in campagna con il Vesuvio sullo sfondo, con la musica «Salve o Nola».
+- **Piazza Duomo:** il lato nord rifatto dalle foto vere: palazzi, edicola, alberi, panchine, lampioni e negozi. Postazioni e Barca come alla festa.
+- **Festa del mattino:** almeno due gigli entrano da ogni attesa e il primo turno parte quando c'è un giglio a ogni attesa. Mappa nuova con tutta la città, la strada più veloce verso la tua meta e i nomi delle vie, anche a tutto schermo con ESC.
+- **Folla più viva:** si sposta solo quando arriva un giglio, fa gesti e azioni anche lontano e cammina davvero.
+- **Gigli:** le lampadine fanno parte del rivestimento e si piegano con il giglio.
+- **Correzioni:** chiusure improvvise legate alla folla e gigli che restavano fermi all'attesa A.
 
 ## Requisiti
 
@@ -85,12 +94,14 @@ Nel gioco puoi tenere premuto **H** per vedere la legenda dei comandi, e nel men
 - Quote del terreno: TINITALY 1.1, INGV (Tarquini S., Isola I., Favalli M., Battistini A., Dotta G., 2023), licenza CC BY 4.0 - [doi.org/10.13127/tinitaly/1.1](https://doi.org/10.13127/tinitaly/1.1).
 - Edifici storici: Catalogo generale dei Beni Culturali (ICCD), dati aperti ArCo del Ministero della Cultura.
 
-**Musica.** I nove brani delle bande sono **originali**, composti per questo gioco (nessuna canzone esistente è citata). Sono suonati con FluidSynth (LGPL-2.1) e con il soundfont GeneralUser GS di S. Christian Collins.
+**Musica.** I nove brani delle bande sono **originali**, composti per questo gioco (nessuna canzone esistente è citata). Sono suonati con FluidSynth (LGPL-2.1) e con il soundfont GeneralUser GS di S. Christian Collins. La musica del menu è «Salve o Nola» (inno a San Paolino), Canzoniere Nolano, Panettiere 2018, voci di Tino Simonetti e Paolino Di Somma: usata con permesso.
 
 **Rumori.** Folla, legno, colpi di spalla, passi e suoni dei menu vengono da librerie con licenza libera, tutte CC0 o pubblico dominio, rielaborate per il gioco:
 - BigSoundBank (CC0): charlesdu76, DenisChardonnet, Joseph SARDIN, Joseph SARDIN & Axeline T., Pierre SIBANARCO, Vitoria M.
 - OpenGameArt (CC0): AntumDeluge, GboxMikeFozzy, Kenney, Nocturnal_Vanguard, Ogrebane, rubberduck, StarNinjas.
 - Wikimedia Commons (CC0 e pubblico dominio, anche da pdsounds.org e Freesound): eguobyte, Pierre Marshall, starlite, thore.
+
+**Modelli 3D.** Alberi, panchine e lampioni di Piazza Duomo vengono da Poly Haven (CC0): tree_small_02 (Rob Tuytel), painted_wooden_bench (Kirill Sannikov), street_lamp_01 (Josh Dean).
 
 **Persone.** I corpi delle persone derivano da dati di MakeHuman / MPFB 2 (mesh base, forme e rig CC0, asset di sistema CC0); vestiti, capelli e colori sono fatti a mano. Lo scheletro e la posa di riferimento sono del manichino "Manny" di Unreal Engine (Epic Games). Modelli e animazioni sono stati preparati con Blender.
 
