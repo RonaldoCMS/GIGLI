@@ -15,18 +15,22 @@ Questo repository serve **solo per scaricare il gioco**: non contiene il codice 
 ## Come scaricarlo
 
 1. Apri la sezione **[Releases](https://github.com/RonaldoCMS/GIGLI/releases/latest)** (a destra in questa pagina).
-2. Scarica `GIGLI-0.2.0-Windows.zip` (circa 1,5 GB). Accanto c'è il file `.sha256` per controllare che il download sia integro.
+2. Scarica `GIGLI-0.3.0-Windows.zip` (circa 1,6 GB). Accanto c'è il file `.sha256` per controllare che il download sia integro.
 
-**Versione attuale: 0.2.0.** È in sviluppo: possono esserci errori, segnalali con una Issue. Le versioni precedenti restano nella sezione Releases.
+**Versione attuale: 0.3.0.** È in sviluppo: possono esserci errori, segnalali con una Issue. Le versioni precedenti restano nella sezione Releases.
 
-## Novità della 0.2.0
+## Novità della 0.3.0
 
-- **Menu nuovo:** i nove gigli schierati in campagna con il Vesuvio sullo sfondo, con la musica «Salve o Nola».
-- **Piazza Duomo:** il lato nord rifatto dalle foto vere: palazzi, edicola, alberi, panchine, lampioni e negozi. Postazioni e Barca come alla festa.
-- **Festa del mattino:** almeno due gigli entrano da ogni attesa e il primo turno parte quando c'è un giglio a ogni attesa. Mappa nuova con tutta la città, la strada più veloce verso la tua meta e i nomi delle vie, anche a tutto schermo con ESC.
-- **Folla più viva:** si sposta solo quando arriva un giglio, fa gesti e azioni anche lontano e cammina davvero.
-- **Gigli:** le lampadine fanno parte del rivestimento e si piegano con il giglio.
-- **Correzioni:** chiusure improvvise legate alla folla e gigli che restavano fermi all'attesa A.
+- **Versione di rilascio:** il gioco è compilato in modalità Release (Shipping), senza gli strumenti di sviluppo e di debug.
+- **Menu e caricamento nuovi:** il menu «Manifesto», su carta, con il titolo GIGLI in rosso e le nove paranze come bande colorate, e una schermata di caricamento nello stesso stile, con la destinazione e un consiglio o una curiosità sulla festa.
+- **Interfaccia «Diretta»:** in partita, lastre inclinate da diretta sportiva, avvisi a livelli (fermo, attenzione, attesa, via libera, evento), «La Fila» con la posizione dei gigli, legenda dei comandi, minimappa, fiato e fuoco della paranza.
+- **GigliTV:** una diretta in partita con due telecamere fisse, una regia che sceglie l'azione più importante e i numeri della festa (tocchi a terra, posate, posto nella fila).
+- **Folla e comitati:** intorno a ogni giglio c'è un comitato di centinaia di persone con la maglia della paranza, che si apre davanti al giglio; nei vicoli la folla si dispone meglio e non finisce più dentro i gigli.
+- **Giglio classico:** nuova struttura di legno dalla seconda base in su, con montanti centrali, pioli inclinati e diagonali, e rivestimento più aderente al legno.
+- **Varre e varrettieli:** le varre sono un pezzo solo e scendono verso le spalle; i varrettieli sono pezzi di legno sottili e inclinati, infilati nei fori della base, e chi li porta è più alto per arrivarci. Con T si tolgono solo i varrettieli (Vico Piciocchi), le varre restano.
+- **Alzata e posata:** l'alzata sale a 32 cm per tutti i gigli: a fiato pieno la paranza sta in piedi e si abbassa man mano che si stanca. Da posati, anche i gigli del computer toccano davvero terra.
+- **Gigli del computer più credibili:** fanno un attento prima di ogni partenza e di ogni cambio di movimento; frusta e mezzo passo sono più contenuti; se camminano storti a lungo si posano e si rialzano dritti, sempre con due attenti e la posata.
+- **Piazza Duomo:** tolti due lampioni a due lanterne e un palo con fari che ingombravano la piazza.
 
 ## Requisiti
 
@@ -100,6 +104,8 @@ Nel gioco puoi tenere premuto **H** per vedere la legenda dei comandi, e nel men
 - BigSoundBank (CC0): charlesdu76, DenisChardonnet, Joseph SARDIN, Joseph SARDIN & Axeline T., Pierre SIBANARCO, Vitoria M.
 - OpenGameArt (CC0): AntumDeluge, GboxMikeFozzy, Kenney, Nocturnal_Vanguard, Ogrebane, rubberduck, StarNinjas.
 - Wikimedia Commons (CC0 e pubblico dominio, anche da pdsounds.org e Freesound): eguobyte, Pierre Marshall, starlite, thore.
+
+**Caratteri.** Nei menu: Oswald (Vernon Adams e altri), licenza SIL Open Font 1.1; in partita: Segoe UI di Windows.
 
 **Modelli 3D.** Alberi, panchine e lampioni di Piazza Duomo vengono da Poly Haven (CC0): tree_small_02 (Rob Tuytel), painted_wooden_bench (Kirill Sannikov), street_lamp_01 (Josh Dean).
 
